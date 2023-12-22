@@ -1,0 +1,13 @@
+attrs
+coverage
+exceptiongroup
+flake8
+iniconfig
+mccabe
+packaging
+pluggy
+pycodestyle
+pyflakes
+pytest
+pytest-cov
+tomli
